@@ -1,2 +1,0 @@
-# sense
-keep growing
